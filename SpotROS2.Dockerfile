@@ -1,3 +1,7 @@
+## Original Dockerfile is in the BDAI Spot ROS2 driver repo (written by me tho)
+# Changes the base image to my ROS Humble devcontainer base image, which mostly
+# just adds ZSH and uses that as the default shell
+
 FROM osrf/ros:humble-desktop-full
 
 # Install dependencies (taken from devcontainer dockerfile)
