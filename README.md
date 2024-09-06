@@ -1,2 +1,2 @@
 # Dockerfiles
-My personal collections of Dockerfiles I've made/modified for my own uses
+My personal collection of Dockerfiles that I've made or modified from others.
