@@ -1,5 +1,2 @@
-# ros2-humble-devcontainer
-My personal devcontainer base for ROS2 Humble projects
-
-## Contents
-- ROS2 Humble (obviously)
+# Dockerfiles
+My personal collections of Dockerfiles I've made/modified for my own uses
